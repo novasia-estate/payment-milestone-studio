@@ -16,6 +16,17 @@ Currency is a label, not an exchange rate. Precision is an explicit user choice,
 
 ## Reuse the engine
 
+### Run the editable browser example
+
+Download this repository, then run `npm start` and open `http://localhost:4173`.
+There are no dependencies to install. The preview server serves only the built
+demo, not arbitrary files from your computer. Stop it with Ctrl+C. The same
+command runs in a compatible browser development environment such as StackBlitz.
+Edit `app.js` or `template.html`, then run `npm run build` and restart the preview
+to use your changes. Never enter private buyer information into a public fork.
+
+### Call the standalone engine
+
 Node 22+, no install needed after obtaining the source:
 
 ```js
