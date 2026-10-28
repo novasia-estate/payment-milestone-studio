@@ -1,0 +1,26 @@
+{
+  "total": "185000.00",
+  "currency": "USD",
+  "precision": 2,
+  "asOf": "2026-12-01",
+  "milestones": [
+    {
+      "label": "Reservation",
+      "date": "2026-11-15",
+      "percent": "10",
+      "paid": true
+    },
+    {
+      "label": "Structure",
+      "date": "2027-01-15",
+      "percent": "30",
+      "paid": false
+    },
+    {
+      "label": "Handover",
+      "date": "2027-06-15",
+      "percent": "60",
+      "paid": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "total": "240000",
+  "currency": "THB",
+  "precision": 0,
+  "asOf": "2026-12-01",
+  "milestones": [
+    {
+      "label": "Start",
+      "date": "2026-11-01",
+      "percent": "30",
+      "paid": true
+    },
+    {
+      "label": "Inspection",
+      "date": "2026-12-01",
+      "percent": "40",
+      "paid": false
+    },
+    {
+      "label": "Acceptance",
+      "date": "2027-01-01",
+      "percent": "30",
+      "paid": false
+    }
+  ]
+}

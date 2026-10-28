@@ -1,0 +1,26 @@
+{
+  "total": "999.99",
+  "currency": "EUR",
+  "precision": 2,
+  "asOf": "2026-12-01",
+  "milestones": [
+    {
+      "label": "Start",
+      "date": "2026-11-01",
+      "percent": "33.33",
+      "paid": false
+    },
+    {
+      "label": "Review",
+      "date": "2026-12-01",
+      "percent": "33.33",
+      "paid": false
+    },
+    {
+      "label": "Delivery",
+      "date": "2027-01-01",
+      "percent": "33.34",
+      "paid": false
+    }
+  ]
+}
